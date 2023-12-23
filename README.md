@@ -1,4 +1,4 @@
-# Rapid Fire Quiz Project in C++ Programming Language
+# Rapid Fire Quiz Project using C++
 The development of this C++ project has been an enriching experience for the team of four 'Samyam Giri, Amit Aacharya, Birat Thapa, Ashim Sapkota),
 providing us with valuable insights into various interesting concepts on C++. After careful consideration, we determined that Dev C++ was the ideal compiler for the project, and we successfully built a large-scale project using it for the first time. The process of learning and utilizing Dev C++ was enjoyable, and we gathered the required header files from the internet before putting our classroom knowledge and concepts to work on the quiz game.
 The welcome page includes a switch statement that enables users to choose from starting the game, reading the instructions, viewing past results, or exiting the game. Once the user provides their information, the quiz commences with a 60-second ticking counter. We incorporated the use of if else if statements to allow users to skip questions or select from four different answer choices.
